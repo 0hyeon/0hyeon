@@ -1,7 +1,5 @@
-# 0hyeon 😉
+# Welcome! I'm 0hyeon
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=0hyeon)
-
-좋은개발자입니다
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0hyeon&show_icons=true&theme=radical)
 
